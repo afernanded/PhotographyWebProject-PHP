@@ -1,0 +1,12 @@
+{
+  "require": {
+    "monolog/monolog": "^2.1",
+    "swiftmailer/swiftmailer": "^6.0",
+    "ext-pdo": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "proyecto\\": ""
+    }
+  }
+}
